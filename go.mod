@@ -1,3 +1,3 @@
-module github.com/PaesslerAG/jsonpath
+module github.com/Gigaclank/jsonpath
 
-require github.com/PaesslerAG/gval v1
+require github.com/Gigaclank/gval v1
