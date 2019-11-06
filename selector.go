@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/Gigaclank/gval"
 )
 
 //plainSelector evaluate exactly one result

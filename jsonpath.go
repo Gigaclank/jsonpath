@@ -14,7 +14,7 @@ package jsonpath
 import (
 	"context"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/Gigaclank/gval"
 )
 
 // New returns an selector for given JSONPath
