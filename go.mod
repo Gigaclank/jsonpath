@@ -1,3 +1,3 @@
 module github.com/Gigaclank/jsonpath
 
-require github.com/Gigaclank/gval v1
+go 1.12

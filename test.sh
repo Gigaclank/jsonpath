@@ -2,7 +2,7 @@
 
 # Script that runs tests, code coverage, and benchmarks all at once.
 
-JSONPath_PATH=$HOME/gopath/src/github.com/PaesslerAG/jsonpath
+JSONPath_PATH=$HOME/gopath/src/github.com/Gigaclank/jsonpath
 
 # run the actual tests.
 cd "${JSONPath_PATH}"
@@ -11,5 +11,5 @@ status=$?
 
 if [ "${status}" != 0 ];
 then
-	exit $status
+    exit $status
 fi
